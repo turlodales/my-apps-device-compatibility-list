@@ -33,7 +33,7 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, Mac) model list.
 
 # Apple Watch LetsDateUK
 | Device | Apple Watch Series 3 | Apple Watch Series 4 | Apple Watch Series 5 | Apple Watch SE | Apple Watch Series 6 | Apple Watch Series 7 |
-| ---------- | ---------- |  ---------- |---------- |---------- | ---------- |  ---------- |---------- |
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | ios version | ? |
 | App Working | ? |
 | App version | ? |
