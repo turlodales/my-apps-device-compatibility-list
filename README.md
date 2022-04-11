@@ -9,6 +9,8 @@ Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch, Mac) model list.
 | ios version | ? |
 | App Working |   |
 | App version | ? |
+| DOB  | September 25, 2015 |
+| Discontinued | ? |
 
 # iPads LetsDateUK
 | Device | iPad Air 2 | iPad Mini 4 | iPad Pro 12.9-inch | iPad Pro 9.7-inch | iPad 5 | iPad Pro 2 (12.9-inch | iPad Pro (10.5-inch | iPad Pro 2 (12.9-inch | iPad 6 | iPad Pro 3 (12.9-inch  | iPad Pro 3 (11-inch, | iPad Mini 5 | iPad Air 3 | iPad 7 | iPad Pro 4 (12.9-inch | iPad Pro 4 (11-inch | iPad Air 4 | iPad 8 | iPad Pro (11-inch) (3rd generation | iPad Pro (12.9-inch) (5th generation) | iPad Pro (11-inch) (3rd generation) | iPad 9 | Mini 6 | iPad Air 5 |
