@@ -4,13 +4,19 @@ my apps device compatibility list
 Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch,) model list.
 
 # iPhones
-| Device | app |  
+| Device | LetsDateUK |  
 | ---------- | ---------- |  
-| iPhone 6s |  |
+| iPhone 6s | ? |
+
+# iPhones LetsDateUK
+| Device | iPhone SE | iPhone 6S | iPhone 6S + |  
+| ---------- | ---------- |  ---------- |---------- |
+| ios version | ? |
+| App Name | ? |
+| App version | ? |
 
 
-
-| iPhone 11
+iPhone 11
 iPhone 11 Pro
 iPhone 11 Pro Max
 iPhone XS
@@ -21,24 +27,10 @@ iPhone 8
 iPhone 8 Plus
 iPhone 7
 iPhone 7 Plus
-iPhone 6s Plus
-iPhone SE
+
 iPod touch (7th generation) |  |
 
 
-
-
-
-
-# 64bit iPhones
-| Device |  |  
-| ---------- | ---------- |   
-| iPhone 5S | iPhone6,1 / iPhone6,2 | 
-| iPhone 6 | iPhone7,2 | 
-| iPhone 6+ | iPhone7,1 |
-| iPhone 6S | iPhone8,1 |    
-| iPhone 6S+ | iPhone8,2 |    
-| iPhone SE | iPhone8,4 |    
 | iPhone 7 | iPhone9,1 / iPhone9,3 | 
 | iPhone 7+ | iPhone9,2 / iPhone9,4 |    
 | iPhone 8 | iPhone10,1 / iPhone10,4 | 
@@ -75,15 +67,6 @@ iPod touch (7th generation) |  |
 | ---------- | ---------- | 
 | iPad Air 3 | iPad11,3 / iPad11,4 | 
 | iPad Air 4 | iPad13,1 / iPad13,2 | 
-
-
-
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-
 
 "iPad11,1", "iPad11,2":                            iPad Mini 5
 "iPad14,1", "iPad14,2":                            iPad Mini 6
@@ -148,6 +131,5 @@ iPhone 7 Plus	iPad Mini 4
 iPhone 6S	iPad Air (3rd gen)
 iPhone 6S Plus	iPad Air 2
 iPhone SE (2020)	
-iPhone SE (2016)	
 iPod Touch (7th gen)	
 ```
