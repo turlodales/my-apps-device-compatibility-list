@@ -3,53 +3,17 @@ my apps device compatibility list
 
 Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch,) model list.
 
-# iPhones
-| Device | LetsDateUK |  
-| ---------- | ---------- |  
-| iPhone 6s | ? |
-
 # iPhones LetsDateUK
-| Device | iPhone SE | iPhone 6S | iPhone 6S + |  
-| ---------- | ---------- |  ---------- |---------- |
+| Device | iPhone SE | iPhone 6S | iPhone 6S+ |  iPhone 7S | iPhone 7S+ | iPhone 8 | iPhone 8+ | iPhone X | iPhone XR | iPhone XS | iPhone XS Max | iPhone 11 | iPhone 11 Pro | iPhone 11 Pro Max | iPhone SE2 | iPhone 12 Mini | iPhone 12 | iPhone 12 Pro | iPhone 12 Pro Max | iPhone 13 Mini | iPhone 13 | iPhone 13 Pro | iPhone 13 Pro Max | 
+| ---------- | ---------- |  ---------- |---------- |---------- | ---------- |  ---------- |---------- |---------- | ---------- |  ---------- |---------- |---------- |  ---------- |---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | 
 | ios version | ? |
 | App Name | ? |
 | App version | ? |
 
 
-iPhone 11
-iPhone 11 Pro
-iPhone 11 Pro Max
-iPhone XS
-iPhone XS Max
-iPhone XR
-iPhone X
-iPhone 8
-iPhone 8 Plus
-iPhone 7
-iPhone 7 Plus
-
 iPod touch (7th generation) |  |
-
-
-| iPhone 7 | iPhone9,1 / iPhone9,3 | 
-| iPhone 7+ | iPhone9,2 / iPhone9,4 |    
-| iPhone 8 | iPhone10,1 / iPhone10,4 | 
-| iPhone 8+ | iPhone10,2 / iPhone10,5 | 
-| iPhone X | iPhone10,3 / iPhone10,6 |    
-| iPhone XS | iPhone11,2 | 
-| iPhone XS Max | iPhone11,4 / iPhone11,6 |    
-| iPhone XR | iPhone11,8 |    
-| iPhone 11 Pro | iPhone12,1 | 
-| iPhone 11 Pro Max | iPhone12,3 |  
-| iPhone SE2 | iPhone12,5 | 
-| iPhone 12 Mini | iPhone12,8 |    
-| iPhone 12 | iPhone13,1 |  
-| iPhone 12 Pro | iPhone13,2 |    
-| iPhone 12 Pro Max | iPhone13,3 |  
-| iPhone 13 Mini | iPhone13,4 |   
-| iPhone 13 | iPhone14,4 |    
-| iPhone 13 Pro | iPhone14,5 |   
-| iPhone 13 Pro Max | iPhone14,2 |   
+  
+| ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |   
 
 # iPad
 
@@ -118,18 +82,3 @@ iPod touch (7th generation) |  |
 "Watch5,9", "Watch5,10", "Watch5,11", "Watch5,12": Apple Watch SE
 "Watch6,1", "Watch6,2", "Watch6,3", "Watch6,4":    Apple Watch Series 6
 "Watch6,6", "Watch6,7", "Watch6,8", "Watch6,9":    Apple Watch Series 7
-
-
-iPhone 11, 11 Pro, 11 Pro Max	12.9-inch iPad Pro
-iPhone XS and XS Max	11-inch iPad Pro
-iPhone XR	10.5-inch iPad Pro
-iPhone X	9.7-inch iPad Pro
-iPhone 8	iPad (6th gen)
-iPhone 8 Plus	iPad (5th gen)
-iPhone 7	iPad Mini (5th gen)
-iPhone 7 Plus	iPad Mini 4
-iPhone 6S	iPad Air (3rd gen)
-iPhone 6S Plus	iPad Air 2
-iPhone SE (2020)	
-iPod Touch (7th gen)	
-```
