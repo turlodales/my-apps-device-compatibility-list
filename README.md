@@ -4,10 +4,10 @@ my apps device compatibility list
 Apple devices(iPhone, iPad, iPod Touch, Apple TV, Apple Watch,) model list.
 
 # iPhones LetsDateUK
-| Device | iPhone SE | iPhone 6S | iPhone 6S+ |  iPhone 7S | iPhone 7S+ | iPhone 8 | iPhone 8+ | iPhone X | iPhone XR | iPhone XS | iPhone XS Max | iPhone 11 | iPhone 11 Pro | iPhone 11 Pro Max | iPhone SE2 | iPhone 12 Mini | iPhone 12 | iPhone 12 Pro | iPhone 12 Pro Max | iPhone 13 Mini | iPhone 13 | iPhone 13 Pro | iPhone 13 Pro Max | 
-| ---------- | ---------- |  ---------- |---------- |---------- | ---------- |  ---------- |---------- |---------- | ---------- |  ---------- |---------- |---------- |  ---------- |---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | 
+| Device | iPhone SE | iPhone 6S | iPhone 6S+ |  iPhone 7S | iPhone 7S+ | iPhone 8 | iPhone 8+ | iPhone X | iPhone XR | iPhone XS | iPhone XS Max | iPhone 11 | iPhone 11 Pro | iPhone 11 Pro Max | iPhone SE2 | iPhone 12 Mini | iPhone 12 | iPhone 12 Pro | iPhone 12 Pro Max | iPhone 13 Mini | iPhone 13 | iPhone 13 Pro | iPhone 13 Pro Max | iPhone SE3 |
+| ---------- | ---------- |  ---------- |---------- |---------- | ---------- |  ---------- |---------- |---------- | ---------- |  ---------- |---------- |---------- |  ---------- |---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | ios version | ? |
-| App Name | ? |
+| App Working | [x] |
 | App version | ? |
 
 
